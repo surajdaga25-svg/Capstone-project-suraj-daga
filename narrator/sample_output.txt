@@ -1,0 +1,8 @@
+Situation
+Mamaearth's raw total revenue stood at ₹99,860.20. Removing double-submitted duplicate orders eliminated a gap of ₹2,501.90, establishing a cleaned total revenue of ₹97,358.30. While January initially appeared to lead performance at ₹29,582.10, that figure was inflated by two bulk orders; its corrected revenue is ₹11,637.10. Consequently, March represents the true peak revenue month at ₹20,318.90.
+
+Complication
+High return rates erode profitability across fulfillment channels. Return rates for COD reached 44.4%, significantly outpacing UPI at 18.9% and Card at 14.7%. Operational exposure is most critical in Tier-2 cities, where COD orders represent the highest-risk segment at a 54.5% return rate, driving up reverse logistics expenses and depressing realized margins.
+
+Resolution
+Operations should introduce automated validation rules at order entry to block duplicate submissions and enforce pre-dispatch confirmation protocols for COD orders in Tier-2 cities. Concurrently, finance and ops must encourage customer adoption of digital payments like UPI and Card over COD through checkout incentives, while anchoring operational planning to cleaned revenue baselines.
